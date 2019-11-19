@@ -1,4 +1,5 @@
-# VR_IS_YOU_1.0
+## A Virtual Reality Adaptation of the popular game Baba is you for the Switch
+
 
 <p align="left">
 	<img src="https://img.shields.io/badge/platform-Unity-blueviolet?style=for-the-badge"
