@@ -1,4 +1,4 @@
-#Vr is You
+Vr is You
 ## A Virtual Reality Adaptation of the popular game Baba is you for the Switch
 
 
