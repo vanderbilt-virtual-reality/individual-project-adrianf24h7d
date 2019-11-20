@@ -3,14 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - is
-  - Text
-  - box
-  - grab
-  - flag
-  - key
-  - win
+  tags: []
   layers:
   - Default
   - TransparentFX
