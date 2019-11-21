@@ -7,13 +7,12 @@ public class keyTest : MonoBehaviour
     public Animation anim;
     public bool winEnabled;
 
-    GameObject score;
+    
 
     // Start is called before the first frame update
     void Start()
     {
-        score = 
-
+       
         anim = gameObject.GetComponent<Animation>();
         anim.enabled = false;
         //_Animation = gameObject.GetComponentInParent<Animation>;
