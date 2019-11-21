@@ -12,3 +12,10 @@
 	<img src="https://img.shields.io/badge/language-Csharp-brightgreen?style=for-the-badge"
 			 alt="language">
 </p>
+
+
+
+## Game Overview
+
+VR is You is a puzzle game where rules in the world are dictated by physical cubes that can found within each puzzle. Rules are created through "sentences", or rather groups of three words: an *object*, the word *is*, and an object *property*. All you need to win the game is to reach an object with the *win* property. Use L and R triggers to grab objects. 
+
