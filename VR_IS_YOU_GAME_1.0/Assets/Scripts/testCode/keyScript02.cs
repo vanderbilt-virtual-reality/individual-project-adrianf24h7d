@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class keyScript : MonoBehaviour
+public class keyScript02 : MonoBehaviour
 {
-    public int keyLevelToChange = 0;
+
+    
     // Start is called before the first frame update
     void Start()
     {
-        
+        this.gameObject.layer = 0;
     }
 
     // Update is called once per frame
@@ -16,4 +17,12 @@ public class keyScript : MonoBehaviour
     {
         
     }
+
+    public void changeToGrab()
+    {
+        Debug.Log("madegrab");
+        this.gameObject.layer = 9;
+   
+    }
+
 }
