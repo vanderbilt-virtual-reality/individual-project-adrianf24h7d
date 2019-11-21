@@ -22,3 +22,8 @@ VR is You is a puzzle game where rules in the world are dictated by physical cub
 ## Baba Is You Motivation
 
 As noted earlier, this game is an adaptation of another game called Baba is You. Baba is You is a relatively new puzzle game released by indie developer Arvi Teikari for the switch in the spring of 2019. This logic puzzles and objects that make up this game are based on rules that are represented by physical objects within each level, for example the character that is known as Baba always has the tile Baba found in the game. Rules are determined by creating short sentences of tiles such as Flag is Win, which means that the level will be won once the player reaches the flag. With this simple logic and the addition of a few other physical qualities that can be manipulated in the game, Baba is You was able to be crowned one of Steam’s best games of 2019. 
+
+## Author and Acknowledgements
+
+Student Developer: Adrian Florea
+Acknowledgement: Hempuli and MP2 for the game inspiration
