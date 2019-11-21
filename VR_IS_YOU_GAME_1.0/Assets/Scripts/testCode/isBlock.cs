@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class isBlock : MonoBehaviour
 {
+    private int defaultLayer = 0;
+    private int grabLayer = 9;
+
     public bool touchWin = false;
     public bool touchGrab = false;
     public bool touchBox = false;
@@ -11,22 +14,31 @@ public class isBlock : MonoBehaviour
     public bool touchText = false;
     public bool touchkey = false;
 
-    public GameObject referenceObject;
-    public ScriptOne referenceScript;
+    GameObject referenceObject;
+    keyScript referenceScript;
 
     // Start is called before the first frame update
     void Start()
     {
-        referenceObject = GameObject.FindObjectWithTag("key");
+        referenceObject = GameObject.FindWithTag("key");
         referenceScript = referenceObject.GetComponent<keyScript>();
+
+
+        referenceObject.layer = defaultLayer;
     }
 
     // Update is called once per frame
     void Update()
     {
+  
+        touchkey = true;
+        touchGrab = true;
+
+       
         if(touchkey && touchGrab)
         {
-            referenceScript.keyLevelToChange = 9;
+
+            referenceScript.keyLevelToChange = grabLayer;
         }
 
         
