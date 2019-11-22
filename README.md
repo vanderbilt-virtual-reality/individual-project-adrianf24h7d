@@ -27,3 +27,6 @@ As noted earlier, this game is an adaptation of another game called Baba is You.
 
 Student Developer: Adrian Florea
 Acknowledgement: Hempuli and MP2 for the game inspiration
+
+# Windows Executable, game demo, and proejct paper
+Link: https://drive.google.com/drive/folders/1hzFlJkjjJa2bS7QyL-UCwuepAfOcNuvL?usp=sharing
